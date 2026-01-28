@@ -1,0 +1,133 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "TotallingStack",
+      "request": "launch",
+      "mainClass": "TotallingStack",
+      "projectName": "CSC-2025-v.02_89ee3f6f"
+    },
+    {
+      "type": "java",
+      "name": "Searcher",
+      "request": "launch",
+      "mainClass": "Searcher",
+      "projectName": "CSC-2025-v.02_89ee3f6f"
+    },
+    {
+      "type": "java",
+      "name": "TestRectangle",
+      "request": "launch",
+      "mainClass": "TestRectangle",
+      "projectName": "CSC-2025-v.02_89ee3f6f"
+    },
+    {
+      "type": "java",
+      "name": "PointMain",
+      "request": "launch",
+      "mainClass": "PointMain",
+      "projectName": "CSC-2025-v.02_89ee3f6f"
+    },
+    {
+      "type": "java",
+      "name": "PointClient",
+      "request": "launch",
+      "mainClass": "PointClient",
+      "projectName": "CSC-2025-v.02_89ee3f6f"
+    },
+    {
+      "type": "java",
+      "name": "TestAppend",
+      "request": "launch",
+      "mainClass": "TestAppend",
+      "projectName": "CSC-2025-v.02_89ee3f6f"
+    },
+    {
+      "type": "java",
+      "name": "TestCopyRange",
+      "request": "launch",
+      "mainClass": "TestCopyRange",
+      "projectName": "CSC-2025-v.02_89ee3f6f"
+    },
+    {
+      "type": "java",
+      "name": "TestPercentEven",
+      "request": "launch",
+      "mainClass": "TestPercentEven",
+      "projectName": "CSC-2025-v.02_89ee3f6f"
+    },
+    {
+      "type": "java",
+      "name": "PromptNumbers",
+      "request": "launch",
+      "mainClass": "PromptNumbers",
+      "projectName": "CSC-2025-v.02_89ee3f6f"
+    },
+    {
+      "type": "java",
+      "name": "Guess",
+      "request": "launch",
+      "mainClass": "Guess",
+      "projectName": "CSC-2025-v.02_89ee3f6f"
+    },
+    {
+      "type": "java",
+      "name": "SmallestPwr2",
+      "request": "launch",
+      "mainClass": "SmallestPwr2",
+      "projectName": "CSC-2025-v.02_89ee3f6f"
+    },
+    {
+      "type": "java",
+      "name": "ProcessName",
+      "request": "launch",
+      "mainClass": "ProcessName",
+      "projectName": "CSC-2025-v.02_89ee3f6f"
+    },
+    {
+      "type": "java",
+      "name": "AgeCheck",
+      "request": "launch",
+      "mainClass": "AgeCheck",
+      "projectName": "CSC-2025-v.02_89ee3f6f"
+    },
+    {
+      "type": "java",
+      "name": "IfOops",
+      "request": "launch",
+      "mainClass": "IfOops",
+      "projectName": "CSC-2025-v.02_89ee3f6f"
+    },
+    {
+      "type": "java",
+      "name": "FactorExample",
+      "request": "launch",
+      "mainClass": "FactorExample",
+      "projectName": "CSC-2025-v.02_89ee3f6f"
+    },
+    {
+      "type": "java",
+      "name": "QuadTest",
+      "request": "launch",
+      "mainClass": "QuadTest",
+      "projectName": "CSC-2025-v.02_89ee3f6f"
+    },
+    {
+      "type": "java",
+      "name": "UniqueTest",
+      "request": "launch",
+      "mainClass": "UniqueTest",
+      "projectName": "CSC-2025-v.02_89ee3f6f"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "ShowCircle",
+      "vmArgs": "--module-path /opt/javafx-sdk-25/lib --add-modules javafx.controls,javafx.fxml",
+      "args": ""
+    }
+  ]
+}
+
